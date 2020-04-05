@@ -17,4 +17,12 @@ The dataset from this repository can be found in [Kaggle](https://www.kaggle.com
 
 # Result
 Best f1 score is .8. Tf_Idf vectorizer and binary vectorizer perform better than other methods
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
   
