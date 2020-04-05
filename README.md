@@ -1,6 +1,9 @@
 # About this Project
 Kaggle competition to predict which Tweets are about real disasters and which ones are not
 
+# Dataset
+The dataset from this repository can be found in [Kaggle page] (https://www.kaggle.com/c/nlp-getting-started)
+
 # Methods
 * Data exploration
 * Preprocessing
