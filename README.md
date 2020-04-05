@@ -25,7 +25,3 @@ Best f1 score is .8. Tf_Idf vectorizer and binary vectorizer perform better than
 accuracy | _ | _ | 0.81 | 3046
 macro avg | 0.81 | 0.80 | 0.80 | 3046
 weighted avg | 0.81 | 0.81 | 0.81 | 3046
-
-~~this~~
-
-
