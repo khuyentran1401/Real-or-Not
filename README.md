@@ -2,7 +2,7 @@
 Kaggle competition to predict which Tweets are about real disasters and which ones are not
 
 # Dataset
-The dataset from this repository can be found in [Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+The dataset from this repository can be found in [Kaggle](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
 
 # Methods
 * Data exploration
