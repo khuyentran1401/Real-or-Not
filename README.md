@@ -19,7 +19,7 @@ The dataset from this repository can be found in [Kaggle](https://www.kaggle.com
 Best f1 score is .8. Tf_Idf vectorizer and binary vectorizer perform better than other methods
  
 precision | recall | f1-score | support
------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- 
 0 | 0.82 | 0.85 | 0.84 | 1762
 1 | 0.79 | 0.75 | 0.7 | 1284
 
